@@ -209,4 +209,13 @@ document.querySelector("#China").addEventListener("click",list_China_Foods);
 
 
 
+(function() {
+  var a = b = 5;
+})();
 
+console.log(b);
+
+
+for (var i = 0; i < 3; i++) {
+  setTimeout(function() { alert(i); }, 1000 + i);
+}
