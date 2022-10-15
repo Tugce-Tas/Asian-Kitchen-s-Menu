@@ -1,2 +1,0 @@
-merhaba 
-ilk hali
